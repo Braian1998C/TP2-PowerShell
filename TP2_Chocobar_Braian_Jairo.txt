@@ -1,0 +1,9 @@
+﻿Trabajo Práctico N° 2 - PowerShell
+Alumno: Braian Jairo Chocobar
+Universidad: UPATecO
+
+Dirección URL del repositorio online:
+https://github.com/Braian1998C/TP2-PowerShell
+
+Página publicada (GitHub Pages):
+https://github.io
